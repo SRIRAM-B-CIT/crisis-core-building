@@ -6,9 +6,10 @@
 
 ## 📽️ Demo Video
 
-_[LINK][https://drive.google.com/file/d/1hnqNpoTpo_9OyT5pB0gYVActMQjt6ym-/view?usp=drivesdk]_
+_ https://drive.google.com/file/d/1hnqNpoTpo_9OyT5pB0gYVActMQjt6ym-/view?usp=drivesdk
 
-## LIVE LINK [https://guardian-link-five.vercel.app/]
+## LIVE LINK 
+[https://guardian-link-five.vercel.app/]
 ---
 
 ## 📌 Problem Statement
