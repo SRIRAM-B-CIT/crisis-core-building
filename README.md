@@ -95,7 +95,7 @@ Our project is built to directly address the United Nations Sustainable Developm
 
 ## 👥 The Team
 
-- **Subham Sahoo S** - _Lead Developer_
-- **Sriram B** - _AI Engineer_
+- **Sriram B** - _Lead Developer_
+- **Subham Sahoo S** - _AI Engineer_
 - **Thejas SB** - _UI/UX & GIS_
 - **Mahathi M** - _Backend Developer_
